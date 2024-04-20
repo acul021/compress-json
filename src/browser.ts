@@ -11,4 +11,5 @@ const compressJSON = {
   trimUndefinedRecursively,
 }
 
+export default compressJSON
 Object.assign(window, { compressJSON })
